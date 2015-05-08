@@ -1,0 +1,10 @@
+---
+name: StackEdit
+description: ''
+keywords: stackedit
+type: Default
+documentation: ''
+images:
+- name: benweet_stackedit_latest
+  source: benweet/stackedit:latest
+  type: Default
